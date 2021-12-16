@@ -36,7 +36,7 @@
                             </ion-col>
                             <ion-col size="0.2"></ion-col>
                             <ion-col style="text-align:left; color:#387352">
-                                <p><i class="fa fa-envelope"></i>&ensp;<b>(021) 246732534</b></p>
+                                <p><i class="fa fa-envelope"></i>&ensp;<b>mail@duamusim.com</b></p>
                             </ion-col>
                         </ion-row>
                     </ion-col>
